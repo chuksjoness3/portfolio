@@ -12,7 +12,7 @@ I am passionate about using **data and technology** to drive decision-making, op
 
 ---
 
-## 💼 CURRENT ROLES
+## 💼 WORK EXPERIENCE
 
 - 🧠 **Business Analyst** at *Weatherford International*  
 - 📊 **Data Analyst** at *Aptech Computer Education*  
