@@ -11,6 +11,63 @@ Certified by **Google**, **Coursera**, **Zarttalent Academy**, and **Start Innov
 I am passionate about using **data and technology** to drive decision-making, optimize processes, and support both **educational** and **business growth**.
 
 ---
+## 🛠️ TECHNICAL EXPERTISE
+
+**Programming Languages**  
+`Python` • `DAX` • `M` (Power Query)
+
+**Database Management & Querying**  
+`MySQL` • `SQL` • `Relational Databases` • `ETL (Extract, Transform, Load)`
+
+**Data Visualization & Reporting**  
+`Power BI` • `Microsoft Excel (PivotTables, Charts, Dashboards)` • `Tableau`
+
+**Spreadsheet & Office Tools**  
+`Microsoft Excel` • `Google Sheets` • `Microsoft Word` • `Microsoft PowerPoint`
+
+**Data Modeling & Analytics**  
+`Power BI` • `Excel` • `KPI Development` • `Performance Dashboards`
+
+**Data Manipulation & Analysis**  
+`Python (Pandas, NumPy)` • `Excel (Formulas, Functions, Conditional Formatting)` • `Power Query`
+
+**Data Cleaning & Transformation**  
+`Excel` • `Python` • `Power BI` • `SQL`
+
+**Version Control & Productivity**  
+`GitHub` • `Google Workspace` • `Notion` • `Slack` • `Zoom`
+
+**Other Tools & Platforms**  
+`Google Analytics` • `Google Data Studio` • `Meta Ads` • `LinkedIn Campaign Manager`
+
+
+---
+
+## 💼 BUSINESS & MARKETING SKILLS
+
+- International Admissions & Student Placement  
+- Sales Strategy & Lead Generation  
+- Digital Marketing (Google Certified)  
+- Client Relationship Management  
+- CRM & Outreach Campaigns  
+- Business Development  
+- Educational Consulting
+
+---
+
+## 💡 SOFT SKILLS
+
+- Strategic Thinking & Problem Solving  
+- Cross-functional Collaboration  
+- Communication & Presentation Skills  
+- Attention to Detail  
+- Leadership & Teamwork  
+- Adaptability & Continuous Learning  
+- Time Management  
+- Mentoring & Coaching
+
+---
+
 
 ## 💼 WORK EXPERIENCE
 
@@ -20,22 +77,7 @@ I am passionate about using **data and technology** to drive decision-making, op
 - 🔍 Former Junior Analyst at *Turner Construction Ltd*  
 - 🌍 Former Business Developer at *Landmark Career Ltd*
 
----
 
-## 🛠️ TECHNICAL SKILLS
-
-**Languages & Tools:**  
-`Python` • `SQL` • `MySQL` • `Excel` • `Power BI` • `Tableau` • `DAX`
-
-**Skills:**  
-- Data Cleaning (Excel, Power BI, Python)  
-- Data Modeling (Power BI, Excel)  
-- KPI Dashboard Development  
-- ETL (Extract, Transform, Load) Processes  
-- Data Visualization & Reporting  
-- Business Strategy & Gap Analysis  
-- Root Cause Analysis  
-- Financial & Operational Assessments  
 
 ---
 
