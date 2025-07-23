@@ -85,20 +85,12 @@ I am passionate about using **data and technology** to drive decision-making, op
 
 ### 📊 Power BI Sales Dashboard  
 - Created an interactive dashboard showcasing **$34.49 in revenue**, **209K sales**, and **58.83% profit margin**.
+  ![image](supermarket-dashboard.jpeg)
 
 ### 🚗 Excel-Driven Car Sales Project  
 - Analyzed car sales by **model, region, and age group**.  
 - Built dimension tables, KPIs, and dashboards to aid business decisions.
-
-### 🧑‍💼 HR Data Analysis  
-- Analyzed data for **780 employees** to uncover a **30% attrition rate**.  
-- Found highest attrition in the **31–35 age group** and departments like HR and Finance.  
-- Proposed retention strategies to improve engagement.
-
-### 📡 Telecom Customer Churn Project  
-- Achieved a **67% retention rate** through churn pattern analysis.  
-- Identified **Fiber Optic** as top revenue stream and **Marketing Offer A** as best retention tool.  
-- Recommended scaling high-performing campaigns and improving service quality.
+   ![image](CAR SALES DASHBOARD.jpeg)
 
 ---
 
