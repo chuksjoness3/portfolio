@@ -73,7 +73,7 @@ I am passionate about using **data and technology** to drive decision-making, op
 
 ### 🔹 Data Analyst  
 **Aptech Computer Education, Nigeria**  
-📅 *July 2023 – Present*  
+📅 * 2025 – Present*  
 - Created interactive financial dashboards using Power BI and optimized DAX formulas.  
 - Handled ETL processes, built complex queries for financial reports, and advised on performance improvement.  
 - Conducted branch-level financial assessments to identify inefficiencies and revenue opportunities.
