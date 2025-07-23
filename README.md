@@ -71,11 +71,44 @@ I am passionate about using **data and technology** to drive decision-making, op
 
 ## 💼 WORK EXPERIENCE
 
-- 🧠 **Business Analyst** at *Weatherford International*  
-- 📊 **Data Analyst** at *Aptech Computer Education*  
-- 💡 Former Intern at *Start Innovation Hub*  
-- 🔍 Former Junior Analyst at *Turner Construction Ltd*  
-- 🌍 Former Business Developer at *Landmark Career Ltd*
+### 🔹 Data Analyst  
+**Aptech Computer Education, Nigeria**  
+📅 *July 2023 – Present*  
+- Created interactive financial dashboards using Power BI and optimized DAX formulas.  
+- Handled ETL processes, built complex queries for financial reports, and advised on performance improvement.  
+- Conducted branch-level financial assessments to identify inefficiencies and revenue opportunities.
+- Monitored the impact of implemented strategies, using data to 
+fine-tune approaches and adapt to evolving business needs. 
+
+ ---
+
+**Weatherford International, Nigeria**  
+📅 * 2023 – 2024*  
+- Conducted root cause analysis to identify business bottlenecks and recommended actionable solutions.  
+- Designed and maintained Power BI dashboards to track KPIs and monitor strategic goals.  
+- Performed gap analysis and process optimization using data-driven insights.
+
+---
+
+### 🔹 Data Analyst Intern  
+**Start Innovation Hub, Nigeria**  
+📅 * 2023 –  2024*  
+- Gained mastery in Excel, Power BI, SQL, and Python for business reporting and dashboards.  
+- Used SQL queries for data extraction and Power BI to create real-time reports and KPIs.  
+- Applied VLOOKUP, PivotTables, and conditional formatting in Excel for business analysis.
+
+---
+
+### 🔹 Business Developer  
+**Landmark Careers Ltd, Nigeria**  
+📅 * 2019 –  2023*  
+-  Drove student recruitment and conversion by promoting study-abroad opportunities through targeted digital marketing campaigns across social media and education platforms.
+-  Engaged prospective students through email marketing, webinars, and lead follow-ups, resulting in a steady increase in client inquiries and admissions.
+-   Advised students on suitable international programs and admission requirements, supporting them through every stage—from school selection to offer acceptance.
+-    Built and maintained strong relationships with partner institutions to streamline admissions processes and improve placement success.
+-    Implemented HR policies, ensuring compliance and fostering a positive work environment. 
+
+---
 
 
 
