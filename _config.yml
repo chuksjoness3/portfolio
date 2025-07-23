@@ -1,6 +1,12 @@
 title : Chukwudi Peter Kubiat Jones 
 logo: WhatsApp Image 2025-07-23 at 16.21.48_938b1e80.jpg
-theme: jekyll-theme-cayman
-cayman:
-  header_bg: "#6a11cb" # Purple gradient
-  section_bg: "#f5f7fa" # Light gray
+theme: jekyll-theme-alfolio
+header:
+  image: "/assets/images/your-header.jpg"  # Full-width banner
+about:
+  avatar: "/assets/images/profile.jpg"    # Circular profile pic
+gallery:
+  enabled: true  # Shows project/work images
+colors:
+  primary: "#FF6B6B"  # Coral
+  secondary: "#4ECDC4" # Mint
