@@ -66,8 +66,8 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
 ## 💼 WORK EXPERIENCE
 
 ### 🔹 Business Developer 
-**  Betacare Nigeria ,Remote **  
-📅 * 2025 - Present*  
+**Betacare Nigeria ,Remote**  
+📅 **2025 - Present**  
 -   Created monthly content (reels, skits, live sessions, collaborations) to boost brand visibility.
 - ubmitted monthly feedback reports on student engagement and outreach effectiveness.
 -  Met KPIs across sales, partnerships, engagement, and reporting with consistent performance.
@@ -77,8 +77,8 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
  ---
 
 ### 🔹 Data Analyst Internship
-** Reenite & Tekskillup ,Remote 2025 **  
-📅 * 2025 *  
+**Reenite & Tekskillup ,Remote 2025**  
+📅 **2025**  
 -  Built predictive models using Logistic Regression, SVM, Random Forest, and Deep Learning.
 -  isualized key metrics and insights using Power BI and Microsoft Excel dashboards.
 -  Explored student engagement patterns and academic performance indicators.
@@ -90,7 +90,7 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
 
 ### 🔹 Data Analyst  
 **Aptech Computer Education, Nigeria**  
-📅 * 2025 *  
+📅 **2025**  
 - Created interactive financial dashboards using Power BI and optimized DAX formulas.  
 - Handled ETL processes, built complex queries for financial reports, and advised on performance improvement.  
 - Conducted branch-level financial assessments to identify inefficiencies and revenue opportunities.
@@ -99,7 +99,7 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
  ---
 
 **Weatherford International, Nigeria**  
-📅 * 2023 – 2024*  
+📅 **2023 – 2024**  
 - Conducted root cause analysis to identify business bottlenecks and recommended actionable solutions.  
 - Designed and maintained Power BI dashboards to track KPIs and monitor strategic goals.  
 - Performed gap analysis and process optimization using data-driven insights.
@@ -108,7 +108,7 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
 
 ### 🔹 Data Analyst Intern  
 **Start Innovation Hub, Nigeria**  
-📅 * 2023 –  2024*  
+📅 **2023 –  2024**  
 - Gained mastery in Excel, Power BI, SQL, and Python for business reporting and dashboards.  
 - Used SQL queries for data extraction and Power BI to create real-time reports and KPIs.  
 - Applied VLOOKUP, PivotTables, and conditional formatting in Excel for business analysis.
@@ -117,7 +117,7 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
 
 ### 🔹 Business Developer  
 **Landmark Careers Ltd, Nigeria**  
-📅 * 2019 –  2023*  
+📅 **2019 –  2023*  
 -  Drove student recruitment and conversion by promoting study-abroad opportunities through targeted digital marketing campaigns across social media and education platforms.
 -  Engaged prospective students through email marketing, webinars, and lead follow-ups, resulting in a steady increase in client inquiries and admissions.
 -   Advised students on suitable international programs and admission requirements, supporting them through every stage—from school selection to offer acceptance.
@@ -133,12 +133,12 @@ Results-driven Business Developer and Data Analyst with over 5 years of experien
 ## 📂 PROJECT HIGHLIGHTS
 
 ### 📊 Power BI Sales Dashboard  
-📅 * 2023*
+📅 **2023**
 - Created an interactive dashboard showcasing **$34.49 in revenue**, **209K sales**, and **58.83% profit margin**.
   ![image](supermarket-dashboard.jpeg)
 
 ### 🚗 Excel-Driven Car Sales Project
-📅 * 2024*
+📅 **2024**
 - Analyzed car sales by **model, region, and age group**.  
 - Built dimension tables, KPIs, and dashboards to aid business decisions.
    ![image](CAR SALES DASHBOARD.jpeg)
